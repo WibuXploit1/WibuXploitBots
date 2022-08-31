@@ -1,11 +1,3 @@
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/BukanOrangAlay/ershinbotz-v4/main/media/Arif3.jpg" alt="ErshinBotz" width="200"/>
-
-</p>
-
-# ERSHINBOTZ-V4
-
 
 ## Heroku Buildpack
 
