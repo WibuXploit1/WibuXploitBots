@@ -1,5 +1,10 @@
 
+# Instalasi
 ## Heroku Buildpack
+
+Click the deploy icon below !
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WibuXploit1/WibuXploitBots)
 
 ```bash
 
